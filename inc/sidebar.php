@@ -3,11 +3,11 @@
 <h3 class="hndle" id="about-sidebar">Connect With Us!</h3>
 <div class="inside">
 <p>
-<a href="http://www.facebook.com/afIndustries" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/facebook.png "></a>&nbsp;
-<a href="http://www.twitter.com/intent/user?screen_name=afIndustries" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/twitter.png "></a>&nbsp;
-<a href="http://www.afcreative.ca/blog" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/wordpress.png "></a>&nbsp;
-<a href="http://www.afcreative.ca/feed" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/rss.png "></a>&nbsp;
-<a href="http://www.afcreative.ca/contact" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/email.png "></a>
+//<a href="http://www.facebook.com/afIndustries" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/facebook.png "></a>&nbsp;
+//<a href="http://www.twitter.com/intent/user?screen_name=afIndustries" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/twitter.png "></a>&nbsp;
+//<a href="http://www.afcreative.ca/blog" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/wordpress.png "></a>&nbsp;
+//<a href="http://www.afcreative.ca/feed" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/rss.png "></a>&nbsp;
+//<a href="http://www.afcreative.ca/contact" target="_blank"><img src="<?php echo WP_PLUGIN_URL ?>/rad-text-highlighter/assets/email.png "></a>
 </p>
 </div>
 </div>
